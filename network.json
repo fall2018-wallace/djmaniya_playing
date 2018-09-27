@@ -50,8 +50,11 @@
         {
             "desc": "Trial",
             "name": "script2867.R"
+        },
+        {
+            "name": "plot.png"
         }
     ],
-    "updated_at": "2018-09-27 16:50:41",
+    "updated_at": "2018-09-27 16:53:07",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
