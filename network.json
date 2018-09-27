@@ -1,7 +1,6 @@
 {
     "collaborators": [
-        "djmaniya",
-        "atjain"
+        "djmaniya"
     ],
     "created_at": "2018-09-26 23:08:38",
     "edges": [
@@ -37,6 +36,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-09-27 17:13:33",
+    "updated_at": "2018-09-27 17:13:54",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
