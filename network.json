@@ -24,37 +24,6 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
-        },
-        {
-            "ports": [
-                {
-                    "input": "df",
-                    "output": "df",
-                    "type": "r_obj"
-                }
-            ],
-            "source": "clean.R",
-            "target": "script2867.R"
-        },
-        {
-            "ports": [
-                {
-                    "output": "plot",
-                    "type": "png"
-                }
-            ],
-            "source": "script2867.R",
-            "target": "plot.png"
-        },
-        {
-            "ports": [
-                {
-                    "output": "trial1",
-                    "type": "txt"
-                }
-            ],
-            "source": "script2867.R",
-            "target": "text8458.txt"
         }
     ],
     "nodes": [
@@ -68,16 +37,12 @@
             "name": "data.csv"
         },
         {
-            "desc": "Trial",
-            "name": "script2867.R"
-        },
-        {
             "name": "plot.png"
         },
         {
             "name": "text8458.txt"
         }
     ],
-    "updated_at": "2018-09-27 16:59:16",
+    "updated_at": "2018-09-27 17:13:24",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
