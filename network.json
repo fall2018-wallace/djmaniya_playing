@@ -45,6 +45,16 @@
             ],
             "source": "script2867.R",
             "target": "plot.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "trial1",
+                    "type": "txt"
+                }
+            ],
+            "source": "script2867.R",
+            "target": "text8458.txt"
         }
     ],
     "nodes": [
@@ -68,6 +78,6 @@
             "name": "text8458.txt"
         }
     ],
-    "updated_at": "2018-09-27 16:59:06",
+    "updated_at": "2018-09-27 16:59:16",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
