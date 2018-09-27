@@ -24,6 +24,17 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "input": "df",
+                    "output": "df",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "clean.R",
+            "target": "script2867.R"
         }
     ],
     "nodes": [
@@ -41,6 +52,6 @@
             "name": "script2867.R"
         }
     ],
-    "updated_at": "2018-09-27 16:50:27",
+    "updated_at": "2018-09-27 16:50:41",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
