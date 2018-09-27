@@ -12,7 +12,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "SatisfactionSurvey7.csv",
+            "source": "raw_data.csv",
             "target": "clean.R"
         },
         {
@@ -28,7 +28,7 @@
     ],
     "nodes": [
         {
-            "name": "SatisfactionSurvey7.csv"
+            "name": "raw_data.csv"
         },
         {
             "name": "clean.R"
@@ -37,6 +37,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-09-27 16:43:54",
+    "updated_at": "2018-09-27 16:49:48",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
