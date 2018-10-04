@@ -24,16 +24,6 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
-        },
-        {
-            "ports": [
-                {
-                    "input": "data",
-                    "type": "csv"
-                }
-            ],
-            "source": "data.csv",
-            "target": "DeepScript.R"
         }
     ],
     "nodes": [
@@ -41,16 +31,14 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "atjain",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
-        },
-        {
-            "desc": "",
-            "name": "DeepScript.R"
         }
     ],
-    "updated_at": "2018-10-04 14:44:10",
+    "updated_at": "2018-10-04 14:45:41",
     "url": "https://github.com/fall2018-wallace/djmaniya_playing"
 }
